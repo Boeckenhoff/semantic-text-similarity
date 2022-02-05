@@ -1,2 +1,1 @@
-# semantic-text-similarity
-This project was part of an unversity project. 
+# Semeval 2012
